@@ -93,7 +93,7 @@ o	Raymon Anthony Doane
 
 •	Next we write a for loop to get the county from the county dictionary, retrieve the County vote count, get the county percentage of votes by county and print the county results to the terminal.  Nested in the “for loop” is a conditional statement that uses an if statement to determine the county name with the most votes which is then printed and written to file:
 
-![	 ]https://github.com/Johnnytoobadman/Election_Analysis/blob/main/Analysis/Script07.png	 
+![	 ](https://github.com/Johnnytoobadman/Election_Analysis/blob/main/Analysis/Script07.png)
  
 •	Similarly this same methos of nesting a conditional in a for loop is used to determine the candidate name and vote count including the winning candidate by vote count and percentage. Again this last step is printed to the terminal and written to the text file as election results:
 

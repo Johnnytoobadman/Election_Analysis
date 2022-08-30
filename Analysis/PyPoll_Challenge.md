@@ -81,7 +81,7 @@ o	Raymon Anthony Doane
 
 •	Then we start looping through each row in the dataset to count votes by county and candidate:
  
-![	 ]https://github.com/Johnnytoobadman/Election_Analysis/blob/main/Analysis/Script04.png	  
+![	 ](https://github.com/Johnnytoobadman/Election_Analysis/blob/main/Analysis/Script04.png) 
 
 •	We then determine using an ‘if” conditional if the candidate does not match an existing candidate (then add it to the list of candidate names).  Similarly we write an if statement that checks if the County does not match any counties in the list:
  

@@ -97,7 +97,7 @@ o	Raymon Anthony Doane
  
 •	Similarly this same methos of nesting a conditional in a for loop is used to determine the candidate name and vote count including the winning candidate by vote count and percentage. Again this last step is printed to the terminal and written to the text file as election results:
 
-![	 ]https://github.com/Johnnytoobadman/Election_Analysis/blob/main/Analysis/Script08.png	 
+![	 ](https://github.com/Johnnytoobadman/Election_Analysis/blob/main/Analysis/Script08.png)
 
 ## Challenge summary
 

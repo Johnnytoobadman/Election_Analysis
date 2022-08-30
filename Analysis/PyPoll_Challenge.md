@@ -72,7 +72,7 @@ o	Raymon Anthony Doane
 
 •	Next we initialize the vote counter and create lists and dictionaries for canidate options, candidate votes, County Names and County votes.  We will also establish variables for winning candidates, winning counts, winning percentage, Largest County turnout name and Largest County vote count:
 
-![	 ]https://github.com/Johnnytoobadman/Election_Analysis/blob/main/Analysis/Script02.png	 
+[	 ](https://github.com/Johnnytoobadman/Election_Analysis/blob/main/Analysis/Script02.png)
  
 •	Next we read the CSV file, convert it into a list of dictionaries and read the header row:
 

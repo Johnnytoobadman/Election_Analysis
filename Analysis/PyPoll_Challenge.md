@@ -85,7 +85,7 @@ o	Raymon Anthony Doane
 
 •	We then determine using an ‘if” conditional if the candidate does not match an existing candidate (then add it to the list of candidate names).  Similarly we write an if statement that checks if the County does not match any counties in the list:
  
-![	 ]https://github.com/Johnnytoobadman/Election_Analysis/blob/main/Analysis/Script05.png	  
+![	 ](https://github.com/Johnnytoobadman/Election_Analysis/blob/main/Analysis/Script05.png) 
 
 •	We then establish the file save instructions, print the final total vote count to terminal and written to file as election results:
  

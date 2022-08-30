@@ -34,22 +34,21 @@ The resources were provided by the Elections employee Tom and Seth and included:
 ### The Analysis of the Election show that:
 
 •	There were 369,711 votes cast in the election. The votes by County were:
-•	
-o	Jefferson County with 10.5% of the votes and 38,855 votes.
+	
+	o	Jefferson County with 10.5% of the votes and 38,855 votes.
 
-o	Denver County with 82.8% of the votes and 306,055 votes.
+	o	Denver County with 82.8% of the votes and 306,055 votes.
 
-
-o	Arapahoe County with 6.7% of the votes and 24,801 votes.
+	o	Arapahoe County with 6.7% of the votes and 24,801 votes.
 
 
 •	The candidates were:
 
-o	Charles Casper Stockham
+	o	Charles Casper Stockham
 
-o	Diana DeGette
+	o	Diana DeGette
 
-o	Raymon Anthony Doane
+	o	Raymon Anthony Doane
 
 
 ### The Analysis of the election results were:
@@ -66,11 +65,11 @@ o	Raymon Anthony Doane
 
 ## Challenge Overview – creating the script.
 
-•	We begin by adding our dependencies and adding a variable to load a file from a path. The CSV module and OS package are loaded so we can use the CSV data and work with our operating system.then the variables are created (file_to_load) and (file_to_save) so we can access the data in the designated path and save the file to a designated path:
+•	We begin by adding our dependencies and adding a variable to load a file from a path. The CSV module and OS package are loaded so we can use the CSV data and work with our operating system then the variables are created (file_to_load) and (file_to_save) so we can access the data in the designated path and save the file to a designated path:
 
 ![	 ](https://github.com/Johnnytoobadman/Election_Analysis/blob/main/Analysis/Script01.png)
 
-•	Next we initialize the vote counter and create lists and dictionaries for canidate options, candidate votes, County Names and County votes.  We will also establish variables for winning candidates, winning counts, winning percentage, Largest County turnout name and Largest County vote count:
+•	Next we initialize the vote counter and create lists and dictionaries for candidate options, candidate votes, County Names and County votes.  We will also establish variables for winning candidates, winning counts, winning percentage, Largest County turnout name and Largest County vote count:
 
 ![	 ](https://github.com/Johnnytoobadman/Election_Analysis/blob/main/Analysis/Script02.png)
  
@@ -95,7 +94,7 @@ o	Raymon Anthony Doane
 
 ![	 ](https://github.com/Johnnytoobadman/Election_Analysis/blob/main/Analysis/Script07.png)
  
-•	Similarly this same methos of nesting a conditional in a for loop is used to determine the candidate name and vote count including the winning candidate by vote count and percentage. Again this last step is printed to the terminal and written to the text file as election results:
+•	Similarly this same method of nesting a conditional in a for loop is used to determine the candidate name and vote count including the winning candidate by vote count and percentage. Again this last step is printed to the terminal and written to the text file as election results:
 
 ![	 ](https://github.com/Johnnytoobadman/Election_Analysis/blob/main/Analysis/Script08.png)
 

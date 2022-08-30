@@ -89,7 +89,7 @@ o	Raymon Anthony Doane
 
 •	We then establish the file save instructions, print the final total vote count to terminal and written to file as election results:
  
-![	 ]https://github.com/Johnnytoobadman/Election_Analysis/blob/main/Analysis/Script06.png	  
+![	 ](https://github.com/Johnnytoobadman/Election_Analysis/blob/main/Analysis/Script06.png) 
 
 •	Next we write a for loop to get the county from the county dictionary, retrieve the County vote count, get the county percentage of votes by county and print the county results to the terminal.  Nested in the “for loop” is a conditional statement that uses an if statement to determine the county name with the most votes which is then printed and written to file:
 

@@ -76,8 +76,7 @@ o	Raymon Anthony Doane
  
 •	Next we read the CSV file, convert it into a list of dictionaries and read the header row:
 
- ![	 ]https://github.com/Johnnytoobadman/Election_Analysis/blob/main/Analysis/Script03.png
-
+ ![](https://github.com/Johnnytoobadman/Election_Analysis/blob/main/Analysis/Script03.png)
 	 
 
 •	Then we start looping through each row in the dataset to count votes by county and candidate:

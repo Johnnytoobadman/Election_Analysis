@@ -100,8 +100,11 @@ The resources were provided by the Elections employee Tom and Seth and included:
 
 ## Challenge summary
 
-•	Python coding is very powerful but requires a lot of preparation, knowledge and planning to write the script accurately.
-  
-•	Visual Studio Code was instrumental is identifying syntax errors, indent errors and more in the long process of working through this project.
+•	Having completed the Election Analysis programming it has become obvious that this powerful and valuable tool should not be ignored.
 
-•	Writing the conditional statements to determine the winning candidate and County by votes and percentages was extremely challenging.
+
+###	Proposal to the Colorado State Election Commission:
+
+	
+
+

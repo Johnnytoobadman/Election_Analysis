@@ -1,2 +1,4 @@
 # Election_Analysis
 Python practice repository
+
+PLEASE NOTE THAT THE PYPOLL_CHALLENGE ANALYSIS FILE (MD) IS IN THE "ANALYSIS" FOLDER.

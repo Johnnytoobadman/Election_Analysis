@@ -105,6 +105,6 @@ The resources were provided by the Elections employee Tom and Seth and included:
 
 ###	Proposal to the Colorado State Election Commission:
 
-	
+![	](https://github.com/Johnnytoobadman/Election_Analysis/blob/main/Analysis/Script09.png)
 
 
